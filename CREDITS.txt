@@ -1,0 +1,30 @@
+Ballarat Total Carpet Cleaning: design preview by Dusk
+
+Business's own material
+  Job photos, van photos and the logo (assets/img, assets/brand/mascot*.jpg):
+    from the business's Facebook page, facebook.com/profile.php?id=100078288791286,
+    and its Google Maps listing (Mount Pleasant VIC). Read 14 October 2026.
+    Number plates and a house number on the van photos are pixelated.
+  Clip of a stain being cleaned (assets/video/on-the-job-*.mp4): a 16 second reel from the same Facebook page.
+    The 1080p copy is VP9 (Chrome, Edge, Firefox); Safari and iPhones play the 360p H.264 copy.
+  Prices: Luke's Facebook post of 15 September 2026.
+  "Over 15 years experience", "fully trained and insured", NDIS upholstery, free quotes: the Facebook page's intro and description.
+  Hours (Mon to Sat 8am to 6pm, Sunday closed) and "Areas served: Ballarat": the Google listing.
+  "We can do it all. Everything gets a wash down.": Luke's reply to a customer question on Facebook.
+  Reviews: Google listing, 5.0 from 177 reviews. Excerpts are shortened, a few spelling slips are tidied,
+    and names are shown as first name and initial.
+  The instant price card on the home page works out prices from that same Facebook post; it sends nothing.
+
+Stock photos (Unsplash licence, free to use; each is labelled "Stock photo" on the page)
+  stock-mattress.jpg        unsplash.com/photos/NCareSEj4JE
+  stock-empty-room.jpg      unsplash.com/photos/mPhv4qTXrXI (Zac Gudakov)
+  stock-dog.jpg             unsplash.com/photos/ta_EL3nGTsw
+  stock-ballarat-sturt.jpg  unsplash.com/photos/E6nmdbWZV4g
+  stock-ballarat-arch.jpg   unsplash.com/photos/yMrfw0Kri-g
+  stock-ballarat-tram.jpg   unsplash.com/photos/0ExvJdiZp5Y
+
+Generated: nothing. Higgsfield is on the free plan with 0 credits, so every effect is coded.
+
+Untouched copies of every file are kept outside this folder in client-sites/_originals/ballarat-total-carpet-cleaning/.
+
+Fonts: Bricolage Grotesque and Instrument Sans, Google Fonts (Open Font License).
